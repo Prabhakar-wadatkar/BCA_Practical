@@ -93,18 +93,18 @@ public class MainActivity extends AppCompatActivity {
                 case 15:
                     intent = new Intent(MainActivity.this, Practical16Activity.class);
                     break;
-//                case 16:
-//                    intent = new Intent(MainActivity.this, Practical17Activity.class);
-//                    break;
-//                case 17:
-//                    intent = new Intent(MainActivity.this, Practical18Activity.class);
-//                    break;
-//                case 18:
-//                    intent = new Intent(MainActivity.this, Practical19Activity.class);
-//                    break;
-//                case 19:
-//                    intent = new Intent(MainActivity.this, Practical20Activity.class);
-//                    break;
+                case 16:
+                    intent = new Intent(MainActivity.this, Practical17Activity.class);
+                    break;
+                case 17:
+                    intent = new Intent(MainActivity.this, Practical18Activity.class);
+                    break;
+                case 18:
+                    intent = new Intent(MainActivity.this, Practical19Activity.class);
+                    break;
+                case 19:
+                    intent = new Intent(MainActivity.this, Practical20Activity.class);
+                    break;
                 default:
                     return;
             }
